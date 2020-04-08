@@ -1,0 +1,13 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\bin\Debug\netcoreapp3.1\Exercise12A.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Quizzes\Exercise12A\obj\Debug\netcoreapp3.1\Exercise12A.genruntimeconfig.cache

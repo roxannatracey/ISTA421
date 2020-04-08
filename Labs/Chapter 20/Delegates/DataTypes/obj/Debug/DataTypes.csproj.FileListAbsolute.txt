@@ -1,0 +1,2 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Chapter 20\Delegates\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Chapter 20\Delegates\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache

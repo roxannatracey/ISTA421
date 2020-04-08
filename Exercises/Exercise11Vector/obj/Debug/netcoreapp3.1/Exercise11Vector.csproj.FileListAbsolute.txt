@@ -1,0 +1,13 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\bin\Debug\netcoreapp3.1\Exercise11Vector.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\Exercise11Vector\obj\Debug\netcoreapp3.1\Exercise11Vector.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\C_Sharp Resources\Microsoft Press\VCSBS\Chapter 19\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\C_Sharp Resources\Microsoft Press\VCSBS\Chapter 19\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\C_Sharp Resources\Microsoft Press\VCSBS\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\C_Sharp Resources\Microsoft Press\VCSBS\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\C_Sharp Resources\Microsoft Press\VCSBS\Chapter 19\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

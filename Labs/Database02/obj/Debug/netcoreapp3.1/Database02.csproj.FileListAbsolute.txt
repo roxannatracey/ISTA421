@@ -1,0 +1,7 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\bin\Debug\netcoreapp3.1\Database02.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\obj\Debug\netcoreapp3.1\Database02.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\obj\Debug\netcoreapp3.1\Database02.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\obj\Debug\netcoreapp3.1\Database02.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\Database02\obj\Debug\netcoreapp3.1\Database02.csproj.CopyComplete

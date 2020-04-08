@@ -1,0 +1,13 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\bin\Debug\netcoreapp3.1\DelegateLab01.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\DelegateLab01\obj\Debug\netcoreapp3.1\DelegateLab01.genruntimeconfig.cache

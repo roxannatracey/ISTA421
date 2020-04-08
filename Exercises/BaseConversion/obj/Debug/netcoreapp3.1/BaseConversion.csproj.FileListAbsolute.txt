@@ -1,0 +1,13 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\bin\Debug\netcoreapp3.1\BaseConversion.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Exercises\BaseConversion\obj\Debug\netcoreapp3.1\BaseConversion.genruntimeconfig.cache

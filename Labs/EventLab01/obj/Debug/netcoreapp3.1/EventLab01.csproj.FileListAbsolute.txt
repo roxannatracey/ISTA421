@@ -1,0 +1,13 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\bin\Debug\netcoreapp3.1\EventLab01.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.csproj.CoreCompileInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\Labs\EventLab01\obj\Debug\netcoreapp3.1\EventLab01.genruntimeconfig.cache

@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\Delegates\\Delegates.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\AuditService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\AuditService.csproj",
+        "projectName": "AuditService",
+        "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\AuditService.csproj",
+        "packagesPath": "C:\\Users\\roxan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {
+              "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj": {
+                "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj",
+        "projectName": "DataTypes",
+        "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj",
+        "packagesPath": "C:\\Users\\roxan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\Delegates\\Delegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\Delegates\\Delegates.csproj",
+        "projectName": "Delegates",
+        "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\Delegates\\Delegates.csproj",
+        "packagesPath": "C:\\Users\\roxan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\Delegates\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {
+              "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\AuditService.csproj": {
+                "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\AuditService\\AuditService.csproj"
+              },
+              "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj": {
+                "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj"
+              },
+              "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\DeliveryService.csproj": {
+                "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\DeliveryService.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.14.0-beta3, )"
+            },
+            "Microsoft.ApplicationInsights.PersistenceChannel": {
+              "target": "Package",
+              "version": "[2.0.0-beta3, )"
+            },
+            "Microsoft.ApplicationInsights.WindowsApps": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\DeliveryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\DeliveryService.csproj",
+        "projectName": "DeliveryService",
+        "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\DeliveryService.csproj",
+        "packagesPath": "C:\\Users\\roxan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DeliveryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roxan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {
+              "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj": {
+                "projectPath": "C:\\Users\\roxan\\OneDrive\\Documents\\OneDrive\\MSSA  CLOUD APP\\ISTA421\\Labs\\Chapter 20\\Delegates\\DataTypes\\DataTypes.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

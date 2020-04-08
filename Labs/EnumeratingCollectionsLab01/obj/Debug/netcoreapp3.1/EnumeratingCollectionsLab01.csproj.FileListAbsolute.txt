@@ -1,0 +1,11 @@
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.exe
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.deps.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.runtimeconfig.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.runtimeconfig.dev.json
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\bin\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.pdb
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\obj\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.csprojAssemblyReference.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\obj\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.AssemblyInfoInputs.cache
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\obj\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.AssemblyInfo.cs
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\obj\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.dll
+C:\Users\roxan\OneDrive\Documents\OneDrive\MSSA  CLOUD APP\ISTA421\EnumeratingCollectionsLab01\obj\Debug\netcoreapp3.1\EnumeratingCollectionsLab01.pdb

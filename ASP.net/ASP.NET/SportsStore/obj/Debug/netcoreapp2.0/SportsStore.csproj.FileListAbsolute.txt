@@ -1,0 +1,28 @@
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\DANIEL\ISTA421\Lab\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+C:\Users\DANIEL\Desktop\New folder\ASP.NET\SportsStore\bin\Debug\netcoreapp2.0\libman.json

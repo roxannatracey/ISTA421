@@ -141,4 +141,39 @@ property can havea getter but no setter
 
 ### April 8, 2020
 
-- What is a variable? - a name location in memory that contains a value 
+- What is a variable? - a name location in memory that contains a value
+
+#### April 9, 2020
+
+CRUD
+Create(insert)
+Read(select)
+Update(update)
+Delete(delete)
+(drop)
+
+Add an intem to the shopping cart - insert into shopping cart (itemID, quantity)
+How to see what's in the shopping cart - select * from shopping cart
+Drop = "removeAll()"
+
+model = table
+productID, quantityOrdered, ItemPrice
+
+
+- partial view - shows a portion of the view content. its a modular view, its something you can plug in
+
+#### April 13, 2020
+
+- new goes to the memory and allocates space
+- constructors
+- CAST
+
+
+
+#### April 14, 2020
+- action method goes to the index.cshtml
+- usually followed by object initializer syntax which creates an anonymous object
+- != MEANS IT IS NOT EQUAL  
+- what is cart? action method
+- btn btn sm btn - danger = is from the bootstrap
+- @model Order // this tells us were using an instance of our order class 

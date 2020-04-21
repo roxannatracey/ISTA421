@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SportsStore",
+    "\\SportsStore\\Component",
+    "\\SportsStore\\Controllers",
+    "\\SportsStore\\Infrastructure",
+    "\\SportsStore\\Migrations",
+    "\\SportsStore\\obj",
+    "\\SportsStore\\obj\\Debug",
+    "\\SportsStore\\obj\\Release",
+    "\\SportsStore\\Properties"
+  ],
+  "SelectedNode": "\\SportsStore\\obj\\Release",
+  "PreviewInSolutionExplorer": false
+}

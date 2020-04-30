@@ -122,7 +122,8 @@ behavioral
 <> brackets means its generic
 property can havea getter but no setter
 
-- what does an action method look for in a controller? it looks for a view file with the same name / cshtml extension
+- what does an action method look for in a controller?
+it looks for a view file with the same name / cshtml extension
 
 - ORM: object relational mapper - can map classes to tables and objects to rows in tables in the database
 
@@ -176,4 +177,7 @@ productID, quantityOrdered, ItemPrice
 - != MEANS IT IS NOT EQUAL  
 - what is cart? action method
 - btn btn sm btn - danger = is from the bootstrap
-- @model Order // this tells us were using an instance of our order class 
+- @model Order // this tells us were using an instance of our order class
+
+
+keyword new instantiates a new object
